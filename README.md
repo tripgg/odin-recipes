@@ -1,0 +1,1 @@
+For this assignment I will create a basic recipe website, practicing the skills I have acquired with Git and HTML.
